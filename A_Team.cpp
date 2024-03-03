@@ -6,7 +6,11 @@ int main()
   cin >> t;
   while (t--)
   {
-
+/*!SECTION
+dddddddddddddddddddddddddd
+gitttttttttttttttttt
+changeeeeeeeeeeeeeeeeeeeeeeee 
+*/
     int a, b,f,s=0;
     cin >> a >> b >> f;
 
@@ -15,7 +19,7 @@ int main()
     if(s==2 || s==3){
       c++;
     }
-  
+  //!modify to see how git show work
   }
   cout << c << endl;
 
